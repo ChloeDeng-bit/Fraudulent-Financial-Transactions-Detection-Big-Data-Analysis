@@ -1,6 +1,5 @@
-# Fraudulent Financial Transactions Detection
-
-##University of Wollongong - Big Data Analytics Assignment
+# Fraudulent Financial Transactions Detection 
+- University of Wollongong - Big Data Analytics Assignment
 
 ## Overview
 
